@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 # --- CONFIG ---
-API_URL = "https://flowise2-r2kq.onrender.com/api/v1/prediction/1f767bef-9587-4471-8f45-b4117dbf0c64"
+API_URL = "https://flowise2-r2kq.onrender.com/api/v1/prediction/630e0af0-8a53-4ca9-a978-174570e1a90b"
 st.set_page_config(page_title="ContextIQ", layout="centered", page_icon="🧠")
 
 # --- STYLING ---
